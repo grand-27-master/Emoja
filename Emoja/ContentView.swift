@@ -34,7 +34,7 @@ struct ContentView: View {
                 
     //            Text("Choose an emoji").font(.system(size: 20))
             }
-            .navigationTitle("How's your mood?")
+            .navigationTitle("Today's mood?")
             .padding()
         
         }
@@ -45,11 +45,10 @@ struct ContentView: View {
     ContentView()
 }
 
-#if DEBUG
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
             .environment(\.colorScheme, .dark)
     }
 }
-#endif
