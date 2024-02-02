@@ -11,8 +11,8 @@ Emoja is a simple SwiftUI app that allows users to express their mood using emoj
 
 ## Screenshots
 
-<a href="dark.png"><br>
-<a href="light.png">
+<img src="light.png"><br>
+<img src="dark.png">
 
 ## Getting Started
 
