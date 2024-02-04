@@ -44,6 +44,7 @@
 		B447FE7D2B6B332600E77774 /* EmojaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmojaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B447FE812B6B332600E77774 /* EmojaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojaUITests.swift; sourceTree = "<group>"; };
 		B447FE832B6B332600E77774 /* EmojaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B48FA8A52B6F1A050047746D /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		B447FE652B6B332400E77774 /* Emoja */ = {
 			isa = PBXGroup;
 			children = (
+				B48FA8A52B6F1A050047746D /* GoogleService-Info.plist */,
 				B447FE662B6B332400E77774 /* EmojaApp.swift */,
 				B447FE682B6B332400E77774 /* ContentView.swift */,
 				B447FE6A2B6B332500E77774 /* Assets.xcassets */,
